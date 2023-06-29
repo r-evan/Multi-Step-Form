@@ -38,7 +38,7 @@ h1,h2,h5,h6{
   background-color: var(--bg-form);
   padding: 20px 0 20px 20px;
   display: flex;
-  height: 66vh;
+  height: calc(500px + 10vh);
   width: calc(300px + 40vw);
   border-radius: 15px;
 }
